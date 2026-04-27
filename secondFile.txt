@@ -7,6 +7,10 @@ Second line 3 updated from git_1
 
 Second line 4 updated from git_1
 
+Second line 3 updated from git_2
+
+Second line 4 updated from git_2
+
 Second line 5
 
 Second line 6
