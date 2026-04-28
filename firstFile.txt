@@ -7,9 +7,9 @@ Line 3 updated in step 8
 
 Line 4 updated in step 8
 
-Line 5
+Line 5 updated from folder2
 
-Line 6
+Line 6 updated from folder2
 
 Line 7
 
