@@ -11,11 +11,11 @@ Line 5 updated from folder2
 
 Line 6 updated from folder2
 
-Line 7
+Line 7 updated from folder1
 
-Line 8
+Line 8 updated from folder1
 
-Line 9
+Line 9 updated before pull
 
 Line 10
 
